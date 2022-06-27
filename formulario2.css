@@ -1,0 +1,99 @@
+#prim1{
+    font-family:sans-serif;
+	color:#380B61;
+	margin-left:40%;
+}
+
+#prim2{
+    font-family:sans-serif;
+	color:#380B61;
+	margin-left:38%;
+}
+
+.info1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.info2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 5px;
+}
+
+.info3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 5px;
+}
+
+#prim3{
+    font-family:sans-serif;
+	color:#380B61;
+	margin-left:32%;
+}
+
+.ling{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family:sans-serif;
+	color:#380B61;
+}
+
+#senioridade{
+    font-family:sans-serif;
+	color:#380B61;
+	margin-left:45%;   
+}
+
+.opt{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: -15px;
+}
+
+#linguagens{
+    font-family:sans-serif;
+	color:#380B61;
+	margin-left:35%; 
+}
+
+.tecnologias{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family:sans-serif;
+	color:#380B61;
+    margin-top: -15px;
+}
+
+#experiencias{
+    font-family:sans-serif;
+	color:#380B61;
+	margin-left:34%; 
+}
+
+.experiencia{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: -15px;
+}
+
+.botao{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+body{
+    background-color:#f0f8ff;
+	font-family:sans-serif;
+}
